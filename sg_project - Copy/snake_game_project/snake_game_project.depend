@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1703767345 source:c:\users\kaveesneha\onedrive\desktop\sg_project\snake_game_project\src\snake.cpp
+	"Snake.h"
+	<windows.h>
+
+1703767247 c:\users\kaveesneha\onedrive\desktop\sg_project\snake_game_project\include\snake.h
+	<windows.h>
+	<Food.h>
+	<vector>
+
+1703767374 source:c:\users\kaveesneha\onedrive\desktop\sg_project\snake_game_project\main.cpp
+	<iostream>
+	<windows.h>
+	<Snake.h>
+	<Food.h>
+	<conio.h>
+	<vector>
+
+1703765157 source:c:\users\kaveesneha\onedrive\desktop\sg_project\snake_game_project\src\food.cpp
+	"Food.h"
+	<ctime>
+	<stdlib.h>
+
+1703765135 c:\users\kaveesneha\onedrive\desktop\sg_project\snake_game_project\include\food.h
+	<windows.h>
+
